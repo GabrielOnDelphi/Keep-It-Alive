@@ -1,5 +1,5 @@
 # Keep-It-Alive
-Keep It Alive - checks if a program is running
+Checks if a program is running, and re-starts it when it crashes.
 
 Program description, documentation and EXE file here: https://gabrielmoraru.com/general-purpose-tools/keep-it-alive/
 
